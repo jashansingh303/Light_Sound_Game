@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 - [ ] Centered the game button and text to look more visually appealing
 
 ## Video Walkthrough (GIF)
-![](https://i.imgur.com/ywENkSl.gifv)
+<img src = "lightandsound.gif">
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
