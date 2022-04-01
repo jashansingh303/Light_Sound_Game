@@ -6,7 +6,8 @@ Submitted by: **Jashandeep Singh**
 
 Time spent: **3** hours spent in total
 
-Link to project: https://organized-better-supply.glitch.me
+Link to project: https://organized-better-supply.glitch.me (game)
+                 https://glitch.com/edit/#!/organized-better-supply (code)
 
 ## Required Functionality
 
