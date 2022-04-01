@@ -57,7 +57,7 @@ If I had a more time to work on this project I would definitely implement the ti
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording] https://youtu.be/6Svpi6VDTD8
+[My 5-minute Interview Recording] https://www.kapwing.com/videos/62465a0417e7ac010066e9cd
 
 
 ## License
